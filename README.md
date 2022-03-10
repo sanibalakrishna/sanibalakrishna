@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanibalakrishna
 - 👀 I’m interested in coding/opensource
-- 🌱 I’m currently learning DSA,FullStackDeveloping and Android
+- 🌱 I’m currently learning DSA,FullStackDeveloping and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanibalakrishna@gmail.com
 
