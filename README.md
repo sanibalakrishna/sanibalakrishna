@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balakrishna</h1>
-<h3 align="center">A passionate frontend developer with some knowledge of backend from India</h3>
+<h3 align="center">Full Stack Web Developer,Cross-Platform App developer and Blockchain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanibalakrishna&label=Profile%20views&color=0e75b6&style=flat" alt="sanibalakrishna" /> </p>
 
