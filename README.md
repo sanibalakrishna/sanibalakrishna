@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA and Three JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-one-rosy-17.vercel.app/](https://portfolio-one-rosy-17.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-next-theta-amber.vercel.app/](https://portfolio-next-theta-amber.vercel.app/)
 
 - 💬 Ask me about **react,next,threejs and gsap**
 
