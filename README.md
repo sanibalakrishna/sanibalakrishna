@@ -13,13 +13,13 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sani-balakrishna.vercel.app/](https://sani-balakrishna.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sani-balakrishna.vercel.app/)
 
 - 💬 Ask me about **React,React Native and Blockchain**
 
 - 📫 How to reach me **sanibalakrishna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13lnxLCIQNhR7vH6G4t2P4ExdFndyXiwm/view?usp=sharing](https://drive.google.com/file/d/13lnxLCIQNhR7vH6G4t2P4ExdFndyXiwm/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/13lnxLCIQNhR7vH6G4t2P4ExdFndyXiwm/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
