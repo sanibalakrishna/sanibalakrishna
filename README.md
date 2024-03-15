@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **DSA and Three JS**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-next-theta-amber.vercel.app/](https://portfolio-next-theta-amber.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://sani-balakrishna.vercel.app/](https://sani-balakrishna.vercel.app/)
 
-- 💬 Ask me about **react,next,threejs and gsap**
+- 💬 Ask me about **react,react native and blockchain(ethereum & solana)**
 
 - 📫 How to reach me **sanibalakrishna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1RzB_qpqZ97_Evw4SY2foRDM2DPN5x_so?usp=sharing](https://drive.google.com/drive/folders/1RzB_qpqZ97_Evw4SY2foRDM2DPN5x_so?usp=sharing)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
